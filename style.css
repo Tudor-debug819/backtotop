@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 2em;
+    padding: 20px;
+    height: 300vh;
+    background-color: purple;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+    color:white;
+
+}
+
+p{
+    color:white;
+}
+
+#back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1;
+}
